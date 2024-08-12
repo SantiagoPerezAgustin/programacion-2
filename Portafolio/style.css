@@ -1,0 +1,55 @@
+body {
+    background: rgb(197, 216, 203);
+}
+.div1 {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    background: pink;
+}
+#titulo {
+    color: #67e723;
+    background: black;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    padding: 10px;
+    height: 100px;
+    width: 200px;
+}
+
+.subtitulo {
+    color: #19f;
+    font-size: 25px;
+    border-bottom: 2px solid #19f;
+    border-left: 2px solid #19f;
+    border-radius: 3px;
+    width: 110px;
+    margin: auto;
+}
+
+p.texto {
+    color: rgb(139, 139, 136);
+    text-align: center;
+}
+
+li.texto {
+    color: rgb(139, 139, 136);
+    text-align: center;
+}
+
+.bordes {
+    /* border: 5px black solid; */
+    border-style: solid;
+    border-color: darkblue;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+.boton{
+    color: #67e723;
+    background: black;
+    border-radius: 2px;
+    margin: auto;
+    text-align: center;
+}
